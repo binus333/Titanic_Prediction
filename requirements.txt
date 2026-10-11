@@ -1,7 +1,8 @@
+streamlit>=1.50
+plotly>=5.20
 pandas
 numpy
-seaborn
 scikit-learn
 joblib
-streamlit
+seaborn
 matplotlib
